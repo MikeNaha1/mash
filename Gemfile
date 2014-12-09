@@ -14,6 +14,7 @@ gem 'high_voltage'
 gem 'omniauth'
 gem 'omniauth-linkedin'
 gem 'simple_form'
+gem 'rolify', '~> 3.4.1'
 group :development do
   gem 'better_errors'
   gem 'binding_of_caller', :platforms=>[:mri_21]
